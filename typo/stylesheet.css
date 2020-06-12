@@ -1,0 +1,65 @@
+ @font-face{
+    font-family : "Blacksword"; /*nom que tu donnes à ton écriture et que tu vas rappeler à chaque demande de modif*/
+    src : url('fonts/Blacksword.otf') format('truetype'); /*ici il faut partir de ton fichier css pour trouver le bon chemin*/
+    font-weight: bold; /*ici on personnalise l'épaisseur de l'écriture (tu en auras besoin pour une écriture en gras par exemple)*/
+    font-style: italic; /*ici c'est pour mettre en italic par exemple*/
+}
+  @font-face {
+     font-family:"Cardo";
+     src: url("fonts/cardo/cardo-regular.woff") format('woff');
+ }
+ @font-face {
+     font-family:"cardo-bold";
+     src: url("font/cardo-bold.woff");
+ }
+ 
+ h1 {
+     font-family:"Blacksword";
+     font-size: 4em;
+ }
+ 
+ h2 {
+     font-family : "Blacksword";
+     src: url('fonts/Blacksword')format('truetype');
+     font-size : 2.5em;
+     word-spacing: 25px;
+ }
+ 
+ h3 {
+     font-family : "Blacksword";
+     src: url('fonts/Blacksword')format('truetype');
+     font-size: 1.5em;
+     word-spacing: 10px;
+ }
+ 
+ body{
+     font-family:"Cardo-regular";
+     margin: auto;
+     text-align: center;
+     font-size: 50%;
+    
+     background-image: url("img/bunting.png") ;
+     background-repeat: repeat-x;
+      
+ }
+ 
+ a{
+     color: pink;
+ }
+
+
+ 
+
+
+
+   
+
+
+
+ 
+ 
+
+ 
+
+
+ 
