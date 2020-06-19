@@ -1,0 +1,110 @@
+body {
+    font-size: 1em;
+    font-family: Playfair Display;
+    width: 100%;
+
+}
+.welcome {
+    font-size: 2em;
+    font-family: Kaushan Script;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+nav {
+    font-size: 1.5em;
+    font-family: Kaushan Script;
+    display: inline-block;
+    text-align: center;
+}
+
+
+header{
+    opacity: 30;
+    box-sizing: border-box;
+    width: 100%;
+    margin: auto;
+    background-image: url(../img/fond.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+    padding:1em 2em 20em;
+    text-align: center;
+}
+a{
+    color: white;
+}
+header nav p {
+    display: inline-block;
+    clear: both;
+    color: white;
+    text-align: center;
+}
+iframe{
+    width:100%;
+}
+
+
+.section1{
+    clear: both;
+    background-color: white;
+    float: left;
+}
+.section2{
+    display: inline-block;
+    background-color: #9E7DD8;
+}
+.section3{
+    display: inline-block;
+}
+
+.cours{
+    display:inline-block;
+    width: 30%;
+}
+.proff{
+    display: inline-block;
+    width: 30%;
+}
+.tarif{
+    display: inline-block;
+    width: 30%;
+}
+.coursyoga{
+    width: 30%;
+}
+.cours10{
+    color: white;
+}
+.cours9{
+    color: white;
+}
+.cours8{
+    color: white;
+}
+.h3{
+    text-align: center;
+}
+.coursyoga{
+    width: 20%;
+    height: 20%;
+    
+}
+.text{
+    text-align: center;
+    padding: 4em;
+}
+.h2{
+    text-align: center;
+}
+.offre{
+    color: white;
+    text-align: center;
+}
+.fa{
+    display:block;
+}
+
+

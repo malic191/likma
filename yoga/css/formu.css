@@ -1,0 +1,179 @@
+.welcome {
+    font-size: 2em;
+    font-family: Kaushan Script;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+nav {
+    font-size: 1.5em;
+    font-family: Kaushan Script;
+    display: inline-block;
+    text-align: center;
+}
+
+
+header{
+    opacity: 30;
+    box-sizing: border-box;
+    width: 100%;
+    margin: auto;
+    background-image: url(../img/fond.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+    padding:1em 2em 20em;
+    text-align: center;
+}
+a{
+    color: white;
+}
+header nav p {
+    display: inline-block;
+    clear: both;
+    color: white;
+    text-align: center;
+}
+body {
+    font-size: 1em;
+    font-family: Playfair Display;
+    width: 100%;
+
+}
+.welcome {
+    font-size: 2em;
+    font-family: Kaushan Script;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+/* Tableau */
+
+table{
+    width: 90%;
+    table-layout: fixed;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    border-color:#CBCBCB;
+}
+
+tr td{
+    border: 1px solid black;
+}
+
+caption{
+    font-weight: normal;
+    font-size: 1em;
+    vertical-align: middle;
+    padding: 10px;
+}
+th{
+    color: white;
+    background-color: #C4A5DE;
+    background-size: 100%;
+    text-align: left;
+    
+}
+a {
+    color: #C4A5DE;
+}
+
+.reservation{
+    text-align: center;
+    font-weight:normal;
+}
+
+fieldset{
+    text-align: center;
+    margin: 50px;
+}
+main {
+    background-color: white;
+}
+header nav a{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: #8D6FD1;
+}
+footer {
+    clear: both;
+    color: white;
+}
+footer a{
+    color:white;
+}
+tbody{
+    padding: 5em;
+    margin: 20em;
+}
+.bouton{
+    margin: auto;
+    display: block;
+    background-color: #8B5BC1;
+    color: white;
+}
+.offre{
+    color: white;
+}
+tbody tr{
+    background-color: white;
+}
+p{
+ font-family: 'Playfair' Display serif;
+}
+
+table tr:nth-child(odd){
+  background-color:#DCDCDC;
+}
+legend{
+     margin-bottom: 20px;
+}
+input{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+tbody tr td:first-child{
+    text-align: left;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
